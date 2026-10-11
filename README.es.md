@@ -1,6 +1,6 @@
 **EN** [English version](README.md)
 
-# Reyvit Cisneros (MattReyvit)
+# Reyvit Cisneros
 
 ## Especialista en Desarrollo de Producto con IA
 
