@@ -1,4 +1,4 @@
-# Reyvit Cisneros (Reyvit-Cisneros)
+# Reyvit Cisneros
 
 ## Product Development Specialist — AI
 
@@ -7,7 +7,11 @@ I design and ship complete digital products — architecture, data, privacy and 
 > ### 🚀 Caso destacado: [Cabbie — Case Study](https://reyvit-cisneros.github.io/cabbie-case-study/)
 > Plataforma de taxi y movilidad: arquitectura, datos, privacidad y flujos con motion.
 
-🇪🇸 [Versión en español](README.es.md)
+<a href="https://reyvit-cisneros.github.io/cabbie-case-study/">
+  <img src="https://raw.githubusercontent.com/Reyvit-Cisneros/Reyvit-Cisneros/main/cabbie-preview.png" alt="Cabbie Case Study — operational flow" width="640">
+</a>
+
+**ES** [Versión en español](README.es.md)
 
 ## What I bring
 - **Product architecture**: from PRD to production, with customer journeys and data models.
