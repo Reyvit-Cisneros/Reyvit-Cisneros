@@ -5,7 +5,7 @@
 I design and ship complete digital products — architecture, data, privacy and SEO — using AI as an accelerator, backed by a documented method.
 
 > ### 🚀 Caso destacado: [Cabbie — Case Study](https://reyvit-cisneros.github.io/cabbie-case-study/)
-> Plataforma de taxi y movilidad: arquitectura, datos, privacidad y flujos con motion.
+> Platform of taxi and transport: architecture, data & privacy with a motion flowchart.
 
 <a href="https://reyvit-cisneros.github.io/cabbie-case-study/">
   <img src="cabbie-preview.png.png" alt="Cabbie Case Study — operational flow" width="640">
