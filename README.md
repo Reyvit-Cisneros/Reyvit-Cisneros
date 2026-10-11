@@ -1,3 +1,5 @@
+**ES** [Versión en español](README.es.md)
+
 # Reyvit Cisneros
 
 ## Product Development Specialist — AI
@@ -10,8 +12,6 @@ I design and ship complete digital products — architecture, data, privacy and 
 <a href="https://reyvit-cisneros.github.io/cabbie-case-study/">
   <img src="cabbie-preview.png.png" alt="Cabbie Case Study — operational flow" width="640">
 </a>
-
-**ES** [Versión en español](README.es.md)
 
 ## What I bring
 - **Product architecture**: from PRD to production, with customer journeys and data models.
