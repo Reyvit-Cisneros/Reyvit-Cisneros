@@ -24,6 +24,9 @@ Diseño y entrego productos digitales completos — arquitectura, datos, privaci
 - [reyvit-framework](https://github.com/Reyvit-Cisneros/reyvit-framework) — mi método de entrega.
 - [comprobante-express-case-study](https://github.com/Reyvit-Cisneros/comprobante-express-case-study) — producto regulado de facturación.
 
+## Stack
+TypeScript · React 19 · TanStack Start · Tailwind CSS · PostgreSQL / Supabase · Mermaid · GitHub Pages
+
 ## Contacto
 GitHub: [github.com/Reyvit-Cisneros](https://github.com/Reyvit-Cisneros)
 
