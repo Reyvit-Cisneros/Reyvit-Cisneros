@@ -8,7 +8,7 @@ I design and ship complete digital products — architecture, data, privacy and 
 > Plataforma de taxi y movilidad: arquitectura, datos, privacidad y flujos con motion.
 
 <a href="https://reyvit-cisneros.github.io/cabbie-case-study/">
-  <img src="https://raw.githubusercontent.com/Reyvit-Cisneros/Reyvit-Cisneros/main/cabbie-preview.png" alt="Cabbie Case Study — operational flow" width="640">
+  <img src="cabbie-preview.png.png" alt="Cabbie Case Study — operational flow" width="640">
 </a>
 
 **ES** [Versión en español](README.es.md)
